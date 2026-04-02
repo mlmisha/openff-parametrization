@@ -1,0 +1,4 @@
+rdkit==2025.03.6
+openff.toolkit==0.18.0
+openff.interchange==0.5.2
+numpy==2.4.3
