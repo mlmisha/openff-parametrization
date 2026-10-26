@@ -1,11 +1,10 @@
-## Параметризация малых молекул для GROMACS с использованием OpenFF ## 
+## Small molecule parametrization for GROMACS using OpenFF ## 
 
-Репозиторий создан в рамках тестового задания в группу вычислительной химии BIOCAD. Задача заключалась в разработке скрипта/ноутбука для параметризации
-малых молекул, хранящихся в одном SDF файле, с помощью OpenFF.
+The test project to to develop a script for parameterizing small molecules stored in a single SDF file using OpenFF.
 
-### Что есть что
+### Was ist was
 
-- Основной ноутбук с хранится в `bctest.ipynb`. 
-- Зависиомсти в `requirements.txt`
-- Пример SDF файла, использованный в задании, - `example.sdf`. 
+- Main notebook `bctest.ipynb`. 
+- Dependencies `requirements.txt`
+- Example SDF file, used here - `example.sdf`. 
 
